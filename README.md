@@ -30,6 +30,12 @@
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
 
+### Решение 1  
+
+![alt text](https://github.com/fin4457/13-03/blob/main/img/1.jpg)
+![alt text](https://github.com/fin4457/13-03/blob/main/img/2.jpg)
+![alt text](https://github.com/fin4457/13-03/blob/main/img/3.jpg)
+
 ------
 
 ### Задание 2
